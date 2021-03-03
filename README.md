@@ -1,2 +1,2 @@
 # reactDersleri
-Reacr Dersleri 
+reactDersleri
