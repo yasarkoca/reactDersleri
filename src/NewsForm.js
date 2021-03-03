@@ -8,7 +8,7 @@ class NewsForm extends Component{
     addButton (){
         this.props.addNews();
     }
-    render(){
+    render(){//Yasar 
         return(
             <button onClick={this.addButton.bind(this)} >
                 Add
