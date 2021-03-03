@@ -4,7 +4,7 @@ import NewsForm from './NewsForm.js';
 
 class News extends Component{
     addNews(){
-        console.log('YAŞAR1');
+        console.log('YAŞAR111');
     }
     render (){
         const news = [{ 
